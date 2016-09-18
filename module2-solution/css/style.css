@@ -13,6 +13,7 @@
 	width:30%;
 	float:right;
 	margin:-1px;
+	
 }
 .menuitem{
 	float:left;
@@ -21,9 +22,11 @@
 	background-color:grey;
 	border-style: solid;
 	border-width: 1px;
+	
 }
 .text{
 	clear:right;
+	padding:5%;
 }
 #mi1{
 	margin-left:2%;
