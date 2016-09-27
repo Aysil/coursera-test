@@ -1,3 +1,16 @@
-
-
-
+h1{
+	margin-top:-10px;
+}
+p{
+	font-size:20px;
+	
+}
+.text-grey{
+	background-color:grey;
+}
+@media (max-width: 991px) {
+  p{
+    margin-left:30px;
+	margin-right:30px;
+  }
+}
