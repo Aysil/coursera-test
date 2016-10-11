@@ -40,6 +40,9 @@ var showLoading = function (selector) {
 // with propValue in given 'string'
 var insertProperty = function (string, propName, propValue) {
   var propToReplace = "{{" + propName + "}}";
+  console.log(propToReplace);
+  console.log(string);
+  console.log(propValue);
   string = string
     .replace(new RegExp(propToReplace, "g"), propValue);
   return string;
@@ -81,7 +84,7 @@ document.addEventListener("DOMContentLoaded", function (event) {
 // *** start ***
 // On first load, show home view
 showLoading("#main-content");
-console.log("ura");
+
 $ajaxUtils.sendGetRequest(
   allCategoriesUrl,
   buildAndShowHomeHTML, // ***** <---- TODO: STEP 1: Substitute [...] ******
