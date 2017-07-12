@@ -1,0 +1,52 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+1
+Microsoft (R) Build Engine версии 15.1.1012.6693
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+Сборка начата 10.07.2017 23:37:15.
+Проект "C:\Users\Teka\xgboost\nccl\CMakeFiles\3.7.1\CompilerIdC\CompilerIdC.vcxproj" в узле 1 (целевые объекты по умолчанию).
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Current.targets(108,3): error MSB4019: импортированный проект "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Platforms\x64\Platform.targets" не обнаружен. Проверьте правильность пути в объявлении <Import> и убедитесь в наличии файла на диске. [C:\Users\Teka\xgboost\nccl\CMakeFiles\3.7.1\CompilerIdC\CompilerIdC.vcxproj]
+Сборка проекта "C:\Users\Teka\xgboost\nccl\CMakeFiles\3.7.1\CompilerIdC\CompilerIdC.vcxproj" завершена (целевые объекты по умолчанию) с ошибкой.
+
+Ошибка сборки.
+
+"C:\Users\Teka\xgboost\nccl\CMakeFiles\3.7.1\CompilerIdC\CompilerIdC.vcxproj" (целевой объект по умолчанию) (1) ->
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Current.targets(108,3): error MSB4019: импортированный проект "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Platforms\x64\Platform.targets" не обнаружен. Проверьте правильность пути в объявлении <Import> и убедитесь в наличии файла на диске. [C:\Users\Teka\xgboost\nccl\CMakeFiles\3.7.1\CompilerIdC\CompilerIdC.vcxproj]
+
+    Предупреждений: 0
+    Ошибок: 1
+
+Прошло времени 00:00:00.24
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+1
+Microsoft (R) Build Engine версии 15.1.1012.6693
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+Сборка начата 10.07.2017 23:37:16.
+Проект "C:\Users\Teka\xgboost\nccl\CMakeFiles\3.7.1\CompilerIdCXX\CompilerIdCXX.vcxproj" в узле 1 (целевые объекты по умолчанию).
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Current.targets(108,3): error MSB4019: импортированный проект "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Platforms\x64\Platform.targets" не обнаружен. Проверьте правильность пути в объявлении <Import> и убедитесь в наличии файла на диске. [C:\Users\Teka\xgboost\nccl\CMakeFiles\3.7.1\CompilerIdCXX\CompilerIdCXX.vcxproj]
+Сборка проекта "C:\Users\Teka\xgboost\nccl\CMakeFiles\3.7.1\CompilerIdCXX\CompilerIdCXX.vcxproj" завершена (целевые объекты по умолчанию) с ошибкой.
+
+Ошибка сборки.
+
+"C:\Users\Teka\xgboost\nccl\CMakeFiles\3.7.1\CompilerIdCXX\CompilerIdCXX.vcxproj" (целевой объект по умолчанию) (1) ->
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Current.targets(108,3): error MSB4019: импортированный проект "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Platforms\x64\Platform.targets" не обнаружен. Проверьте правильность пути в объявлении <Import> и убедитесь в наличии файла на диске. [C:\Users\Teka\xgboost\nccl\CMakeFiles\3.7.1\CompilerIdCXX\CompilerIdCXX.vcxproj]
+
+    Предупреждений: 0
+    Ошибок: 1
+
+Прошло времени 00:00:00.25
+
+
