@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\lightgbm.dir/objects.a
+C:\PROGRA~1\MINGW-~1\bin\ar.exe cr CMakeFiles\lightgbm.dir/objects.a @CMakeFiles\lightgbm.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\bin\G__~1.EXE  -fopenmp -std=c++11 -pthread -O3 -Wextra -Wall -Wno-ignored-attributes -Wno-unknown-pragmas -fPIC   -Wl,--whole-archive CMakeFiles\lightgbm.dir/objects.a -Wl,--no-whole-archive  -o ..\lightgbm.exe -Wl,--out-implib,..\liblightgbm.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\lightgbm.dir\linklibs.rsp

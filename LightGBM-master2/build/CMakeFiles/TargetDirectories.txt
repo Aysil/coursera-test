@@ -1,0 +1,8 @@
+C:/Users/Teka/LightGBM-master/LightGBM-master/build/CMakeFiles/edit_cache.dir
+C:/Users/Teka/LightGBM-master/LightGBM-master/build/CMakeFiles/lightgbm.dir
+C:/Users/Teka/LightGBM-master/LightGBM-master/build/CMakeFiles/_lightgbm.dir
+C:/Users/Teka/LightGBM-master/LightGBM-master/build/CMakeFiles/install.dir
+C:/Users/Teka/LightGBM-master/LightGBM-master/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Teka/LightGBM-master/LightGBM-master/build/CMakeFiles/list_install_components.dir
+C:/Users/Teka/LightGBM-master/LightGBM-master/build/CMakeFiles/install/strip.dir
+C:/Users/Teka/LightGBM-master/LightGBM-master/build/CMakeFiles/install/local.dir
